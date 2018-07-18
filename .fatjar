@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 13 14:51:41 CST 2018
+onejar.license.required=false
+manifest.mergeall=true
+manifest.removesigners=true
+excludes=
+includes=
+onejar.checkbox=false
+onejar.expand=
+manifest.classpath=
+jarname=FabricManagerForHuaiwei.jar
+jarname.isextern=false
+manifest.file=<createnew>
+manifest.mainclass=tyt.fabric.manager.FabricManager
